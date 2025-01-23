@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧〈 *POP KID BOT* 〉 ✧───◆
+╭────✧〈 *GATHARA BOT* 〉 ✧───◆
 ┴╭─────────────☹︎
 𓄂│▸ *Date* : ${date}
 𓄂│▸ *User* : ${s.OWNER_NAME}
@@ -41,13 +41,13 @@ const date = moment().format('DD/MM/YYYY');
 𓄂│▸ *Commands* : ${cm.length} 
 𓄂│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 𓄂│▸ *Platform* : ${os.platform()}
-𓄂│▸ *Theme* : *POP KID*
+𓄂│▸ *Theme* : *GATHARA*
 ┬╰──────────────☹︎
 ╰─── ···▸💰LIKE A BOSS💰··──◆\n\n`;
     
 let menuMsg = `
 ╭──────────✇
-   *POP KID-V1.0.0*
+   *GATHARA* V 8.0.0*
 ╰──────────✇
 
  *❄︎AVAILABLE COMMANDS❄︎*
@@ -66,7 +66,7 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-> POP KID-MD CREATED BY POP KID
+> GATHARA-MD CREATED BY GATHARA
 *»»—————————— ★ ——————————««*
 `;
 
