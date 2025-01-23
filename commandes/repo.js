@@ -34,23 +34,20 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝐏𝐎𝐏𝐊𝐈𝐃 𝐈𝐍𝐅𝐎* 
+      *GATHARA 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Popkiddevs/POPKID-XTECH
-
-*𝐏𝐎𝐏𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+> https://github.com
 ⁠
 ╭───────────────────❒
 │😂 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❣️ *DEV1* : *ᴘᴏᴘᴋɪᴅ*
-│⚽ *DEV2* : *ᴘᴏᴘᴋɪᴅ*
+│❣️ *DEV1* : *GATHARA*
+│⚽ *DEV2* : *GATHARA*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *ᴘᴏᴘᴋɪᴅ ᴛᴇᴄʜ*
+     *GATHARA *
 
 ❒────────────────────❒`;
 
